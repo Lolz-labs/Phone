@@ -1,3 +1,4 @@
+#http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2FLolz-labs%2F&10&0
 import flet as ft
 import asyncio
 import math
